@@ -1,1 +1,2 @@
 # Hotel-Bookings
+Industri perhotelan terus berubah dan berkembang seiring dengan perubahan perilaku konsumen, perkembangan teknologi, dan kondisi pasar yang dinamis. Konsumen kini lebih cenderung untuk memesan secara online dan mencari harga terbaik melalui berbagai platform. Maka dari itu, hotel harus bisa menyesuaikan strategi pemasaran dan harga untuk menarik perhatian konsumen yang semakin cerdas dan selektif.
